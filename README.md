@@ -54,13 +54,17 @@ I am a **Java Full Stack Developer** passionate about building **scalable, respo
 - 🔹 Developed a **hybrid 1D CNN + Fuzzy Logic IDS** to secure IoT-MQTT communication.
 - 🔹 Improved attack detection accuracy by **8.89%** over traditional DNN/RNN.
 - 🔹 Tech Stack: `Python`, `MQTT`, `Machine Learning`, `CNN`  
-[GitHub Repo](https://github.com/SaiMounika19/IoT-IDS)
 
-### 2️⃣ Java Full Stack Web Applications
-- 🔹 Developed dynamic web applications with **Java, Spring Boot, Hibernate, Servlets, JDBC**.
-- 🔹 Implemented **CRUD operations**, database management in MySQL.
-- 🔹 Tech Stack: `Java`, `HTML`, `CSS`, `JavaScript`, `Bootstrap`  
-[GitHub Repo](https://github.com/SaiMounika19/Java-FullStack-Projects)
+
+### 2️⃣ School Management System (Java)
+- 🔹 Implemented CRUD operations for student records with Servlets and JSP
+- 🔹 Built responsive UI using HTML, CSS and optimized PostgreSQL query performance.
+
+### 2️⃣ Weather App (Html, Css, Javascript)
+- 🔹Developed a real-time Weather Application using HTML, CSS, and JavaScript.
+- 🔹Integrated WeatherAPI to fetch live weather data for any city worldwide.
+- 🔹Provides current temperature, location, date, time, and weather conditions.
+
 
 
 ---
