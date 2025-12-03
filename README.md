@@ -62,9 +62,6 @@ I am a **Java Full Stack Developer** passionate about building **scalable, respo
 - 🔹 Tech Stack: `Java`, `HTML`, `CSS`, `JavaScript`, `Bootstrap`  
 [GitHub Repo](https://github.com/SaiMounika19/Java-FullStack-Projects)
 
-### 3️⃣ Portfolio Website & Arduino IoT
-- 🔹 [Portfolio Website](https://github.com/SaiMounika19/Portfolio) – Personal projects showcase.  
-- 🔹 [Arduino IoT Projects](https://github.com/SaiMounika19/Arduino-IoT) – Embedded programming and sensors.
 
 ---
 
